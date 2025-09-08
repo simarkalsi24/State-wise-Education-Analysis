@@ -47,6 +47,4 @@ This project explores **enrollment data** from 2021 using **Python and Pandas**.
 ---
 
 ## 📈 Key Insights  
-- Several columns (e.g., `father_name`, `clustername`) had **high null values**.  
-- Some categorical fields were **imbalanced**.  
-- Dataset needs **cleaning and preprocessing** before deeper analysis.  
+This analysis helped me in understanding the basis of Analysis. Moreover , the noise on this dataset was diverse helping in thinking on different possibilities, giving me different aspects and Ways of cleaning this data.
